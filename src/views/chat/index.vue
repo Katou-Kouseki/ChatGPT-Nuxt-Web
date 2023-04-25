@@ -1,6 +1,4 @@
 <script setup lang='ts'>
-import { useMeta } from 'nuxt3'
-useMeta ( { title: 'ChatGPT - 首页' })
 import type { Ref } from 'vue'
 import { computed, onMounted, onUnmounted, ref } from 'vue'
 import { useRoute } from 'vue-router'
