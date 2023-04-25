@@ -16,7 +16,6 @@
 
 
 <script setup lang="ts">
-useMeta ( { title: '你想要的标题' })
 import { NConfigProvider } from 'naive-ui'
 import { NaiveProvider } from '@src/components/common'
 import { useTheme } from '@src/hooks/useTheme'
