@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
       name: 'You',
-      description: '我的 <a href="https://kouseki.cn/" class="text-blue-500" target="_blank" >主页</a>',
+      description: '这是你与AI的对话 <a href="https://kouseki.eu.org/" class="text-blue-500" target="_blank" >主页</a>',
     },
   }
 }
